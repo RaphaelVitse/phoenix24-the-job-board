@@ -93,8 +93,3 @@ h1 {
 .footer span {
   font-weight: bold;
 }
-
-@media (max-width) {
-  .card-container {
-  }
-}
