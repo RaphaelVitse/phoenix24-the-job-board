@@ -6,63 +6,63 @@ const Jobs = (props) => {
     <>
       <div className="card-container">
         <Job
-          className="job-card job-card-red"
+          className="job-card-red"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-green"
+          className="job-card-green"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-yellow"
+          className="job-card-yellow"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-blue"
+          className="job-card-blue"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-pink"
+          className="job-card-pink"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-red"
+          className="job-card-red"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-green"
+          className="job-card-green"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-yellow"
+          className="job-card-yellow"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
           city="Sydney"
         />
         <Job
-          className="job-card job-card-blue"
+          className="job-card-blue"
           title="Full Time Sales Associate - Sydney Boutique"
           contractType="CDI"
           country="Autralia"
