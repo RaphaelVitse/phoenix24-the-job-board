@@ -5,9 +5,11 @@ const Job = (props) => {
     <>
       <div className={props.className}>
         <h2>{props.title}</h2>
-        <p>{props.contractType}</p>
-        <p>{props.country}</p>
-        <p>{props.city}</p>
+        <div className="job-details">
+          <p>{props.contractType}</p>
+          <p>- {props.country}</p>
+          <p>- {props.city}</p>
+        </div>
       </div>
     </>
   );
