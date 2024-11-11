@@ -16,12 +16,13 @@ h1 {
 /* PARTIE CONTAINER */
 
 .card-container {
-  width: 1020px;
+  max-width: 1020px;
   /* background: green; */
   display: flex;
   flex-wrap: wrap;
-  gap: 60px;
+  gap: 40px;
   margin: 40px auto;
+  padding: 0 20px;
 }
 .job-card-red {
   border: 10px solid red;
@@ -91,4 +92,9 @@ h1 {
 
 .footer span {
   font-weight: bold;
+}
+
+@media (max-width) {
+  .card-container {
+  }
 }
