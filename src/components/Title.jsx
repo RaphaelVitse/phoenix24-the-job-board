@@ -1,7 +1,7 @@
 const Title = (props) => {
   return (
     <>
-      <header>{props.name}</header>
+      <h1>{props.name}</h1>
     </>
   );
 };

@@ -4,7 +4,7 @@ const Jobs = (props) => {
   console.log("props jobs = " + props);
   return (
     <>
-      <div className="card-container">
+      <main className="card-container">
         <Job
           className="job-card-red"
           title="Full Time Sales Associate - Sydney Boutique"
@@ -68,7 +68,7 @@ const Jobs = (props) => {
           country="Autralia"
           city="Sydney"
         />
-      </div>
+      </main>
     </>
   );
 };
